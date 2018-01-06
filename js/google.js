@@ -1,1 +1,0 @@
-function initMap(){var e=new google.maps.Map(document.getElementById("map"),{zoom:17,center:{lat:59.938896,lng:30.323089}}),n={url:"img/map-pin.svg",scaledSize:new google.maps.Size(66,100.801)};new google.maps.Marker({position:e.getCenter(),title:"г. Санкт-Петербург, \nул. Большая Конюшенная, \nд. 19/8, офис 101",map:e,optimized:!1,icon:n})}
